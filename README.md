@@ -1,2 +1,2 @@
 # react-project
-Projeto de React pelos estudos pelo Origamid
+Estudos realizados no curso de React completo - Origamid
